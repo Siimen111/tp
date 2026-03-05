@@ -3,14 +3,13 @@
   "pages": [
     {
       "src": "AboutUs.md",
-      "title": "About Us",
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
+        "lee-qi-zheng": "Lee Qi Zheng",
         "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
+        "sherman-liam": "Sherman Liam",
+        "ronald-pang": "Ronald Pang",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
